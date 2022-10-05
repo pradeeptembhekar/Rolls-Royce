@@ -1,0 +1,9 @@
+{
+	"name": "ADFCookbookPractice",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1d681a1b-0320-4fec-92f9-25a9d44aed86",
+		"tenantId": "79838bfb-da5e-4c33-a93e-b6e1f3a6d1c3"
+	}
+}
